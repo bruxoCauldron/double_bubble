@@ -1,0 +1,47 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "wYii_Czo5jW2SkqZlCXsP",
+      "name": "core-al",
+      "value": "#ff7070"
+    },
+    {
+      "id": "UGMAOXVc8l57mqvzx62eb",
+      "name": "lavendrip",
+      "value": "#e047ff"
+    },
+    {
+      "id": "FXf6oLqUf-45ON5DQICsL",
+      "name": "blew (my mind)",
+      "value": "#8e42ff"
+    },
+    {
+      "id": "6vmfZdkKCaIjVm6X1q7QM",
+      "name": "Mr. Teal Yo Girl",
+      "value": "#0ad6ff"
+    },
+    {
+      "id": "ZI6xQazeLFRTEfMcKyZcm",
+      "name": "see, foam",
+      "value": "#24ff83"
+    },
+    {
+      "id": "25LxYbgIaM-B-Khnx-cm3",
+      "name": "electric sunshine",
+      "value": "#e1ff4d"
+    },
+    {
+      "id": "VUBH8fppbdpur9pWejnt_",
+      "name": "orange sunshine",
+      "value": "#ffa82e"
+    },
+    {
+      "id": "VuQboEDV9cQgy_elu92X7",
+      "name": "lion king sunshine",
+      "value": "#ff2e2e"
+    }
+  ],
+  "fileColors": []
+}

@@ -1,0 +1,31 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "arch": 16,
+    "cauldron": 15,
+    "code": 17,
+    "git": 18,
+    "hyprland": 19,
+    "linux": 20,
+    "nvim": 21,
+    "obsidian": 22,
+    "organization": 23,
+    "package-management": 28,
+    "security": 13,
+    "system-admin": 8,
+    "terminal": 25,
+    "themes": 26,
+    "utility": 27
+  },
+  "tagColors": {},
+  "_version": 4
+}

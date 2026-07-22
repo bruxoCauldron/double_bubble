@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Vauxhall",
+  "interfaceFontFamily": "Hack Nerd Font Mono",
+  "monospaceFontFamily": "GohuFont uni14 Nerd Font Mono",
+  "textFontFamily": "Agave Nerd Font Mono",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "accentColor": "#52ff74"
+}

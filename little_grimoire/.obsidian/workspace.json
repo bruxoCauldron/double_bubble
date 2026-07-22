@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a702db23a946486e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0724d8c57847e59",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8550e9de7d8496d",
+    "type": "split",
+    "children": [
+      {
+        "id": "007880b44fefbd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4dcbf36627ef38b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "85688e9a2508cc0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#linux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09e0895bd10dd5cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "*.+ HOME *.+.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "*.+ HOME *.+"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "77f71b96c4a426ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6bb888ec4f0e108",
+        "type": "tabs",
+        "dimension": 55.235602094240846,
+        "children": [
+          {
+            "id": "84ee3a2b62f8bcc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-07-15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-07-15"
+            }
+          },
+          {
+            "id": "9a4c1bac4804d190",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-07-15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-07-15"
+            }
+          },
+          {
+            "id": "13325318c1f365c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0b1177b88a5bb1cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "048c297c7e3ef0fb",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "75d6fca5179ed02d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux/system/pacman + yay.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pacman + yay"
+            }
+          },
+          {
+            "id": "562f3cba2b17f603",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "33971da099213a27",
+        "type": "tabs",
+        "dimension": 44.76439790575916,
+        "children": [
+          {
+            "id": "0800b70dfea15fe7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "linux/system/pacman + yay.md",
+    "notes/Linux to do.md",
+    "*.+ HOME *.+.base",
+    "notes/to do.md",
+    "notes/useful links.md",
+    "notes/2026-07-15.md",
+    "notes/messer chups.md",
+    "notes/unzip files.md",
+    "notes/Untitled 1.md",
+    "linux/environs/sway.md",
+    "linux/environs/nwg-look.md",
+    "linux/environs/hyprland.md",
+    "linux/environs/gtk + qt.md",
+    "linux/general recommendations.md",
+    "books.md",
+    "linux/utilities/bluetooth.md",
+    "Untitled.base",
+    "pkgbuil.md",
+    "linux/toys/real hacker shit.md",
+    "music production/musical to do.md",
+    "music production/reaper/reaper notes.md",
+    "music production/bitwig/bitwig studio notes.md",
+    "z; days/2026-07-15.md",
+    "z; days/2026-07-19.md",
+    "z; days",
+    "music production/reaper",
+    "music production/bitwig",
+    "games/dwarf fortress/dtf notes.md",
+    "music production",
+    "games/factorio/factorio notes.md",
+    "daily/2026-07-15.md",
+    "daily",
+    "cauldron/languages",
+    "games/factorio/factorio flow - the path to science.canvas",
+    "games/dwarf fortress",
+    "games/factorio"
+  ]
+}

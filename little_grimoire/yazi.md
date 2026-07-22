@@ -1,1 +1,0 @@
-https://yazi-rs.github.io/docs/configuration/theme/

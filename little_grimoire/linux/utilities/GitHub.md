@@ -12,6 +12,6 @@ or just use the desktop version
 3. open repo
 4. name commit and hit enter
 5. close repo
-6. push to main
+6. push to origin
 
 - [x] set up SSH key

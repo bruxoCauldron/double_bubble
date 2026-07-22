@@ -11,10 +11,14 @@
             "id": "a0724d8c57847e59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "linux/utilities/GitHub.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GitHub"
             }
           }
         ]
@@ -235,11 +239,11 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a0724d8c57847e59",
   "lastOpenFiles": [
+    "*.+ HOME *.+.base",
     "linux/system/pacman + yay.md",
     "notes/Linux to do.md",
-    "*.+ HOME *.+.base",
     "notes/to do.md",
     "notes/useful links.md",
     "notes/2026-07-15.md",

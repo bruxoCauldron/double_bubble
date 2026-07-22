@@ -1,0 +1,4 @@
+- [ ] setup GitHub SSH key
+	- maybe?: look into it. it might make pushing and pulling from the repo a lot easier, but the setup is involed, and if you can even set it up on two machines *at all* then you will need to do the process for both the linux and mac machines
+		- maybe use WorkingCopy instead? that shit was crazy hassle last time but maybe you were just being dumb or maybe it's easier to use these days
+- [x] waybar config

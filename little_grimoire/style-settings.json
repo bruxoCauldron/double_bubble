@@ -1,0 +1,16 @@
+{
+  "Appearance@@bg@@dark": "#10111D",
+  "Appearance@@bg_dark@@dark": "#10111D",
+  "Appearance@@bg_highlight_dark@@dark": "#2D2A44",
+  "Appearance@@bg_dark2@@dark": "#212151",
+  "Appearance@@text-normal@@dark": "#FFA0A0",
+  "Appearance@@text-muted@@dark": "#5CFFD5",
+  "Appearance@@text-faint@@dark": "#FFE96C",
+  "Appearance@@text-accent@@dark": "#B464F5",
+  "Appearance@@text-accent-hover@@dark": "#82FF69",
+  "Appearance@@text-on-accent@@dark": "#FF2FA9",
+  "Appearance@@text-on-accent-inverted@@dark": "#CAFF35",
+  "Appearance@@text-error@@dark": "#2CFF72",
+  "Appearance@@text-warning@@dark": "#9262FF",
+  "Appearance@@text-success@@dark": "#FFA25A"
+}

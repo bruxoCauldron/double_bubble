@@ -7,4 +7,11 @@ https://github.com/bruxoCauldron/double_bubble
 
 or just use the desktop version
 
+1. use obsidian
+2. open github desktop
+3. open repo
+4. name commit and hit enter
+5. close repo
+6. push to main
+
 - [x] set up SSH key

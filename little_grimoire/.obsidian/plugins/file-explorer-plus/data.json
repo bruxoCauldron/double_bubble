@@ -36,7 +36,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "linux/general recommendations.md",
+        "pattern": "cauldron/linux/general recommendations.md",
         "patternType": "STRICT"
       },
       {

@@ -38,14 +38,6 @@
     "iconName": "FasListUl",
     "iconColor": "#ffc23d"
   },
-  "linux": {
-    "iconName": "SiArchlinux",
-    "iconColor": "#8000ff"
-  },
-  "linux/general recommendations.md": {
-    "iconName": "FasDove",
-    "iconColor": "#ffce7a"
-  },
   "cauldron": {
     "iconName": "FasHatWizard",
     "iconColor": "#4dffac"
@@ -53,69 +45,6 @@
   "cauldron/digital forensics.md": {
     "iconName": "RiFingerprintFill",
     "iconColor": "#db48cf"
-  },
-  "linux/environs": {
-    "iconName": "FasTreeCity",
-    "iconColor": "#30c549"
-  },
-  "linux/system": {
-    "iconName": "RiAdminLine",
-    "iconColor": "#ff667d"
-  },
-  "linux/system/system administration.md": {
-    "iconName": "RiAdminLine",
-    "iconColor": "#00ff88"
-  },
-  "linux/environs/gtk + qt.md": "FiTool",
-  "linux/environs/hyprland.md": {
-    "iconName": "OcDeviceDesktop16",
-    "iconColor": "#ff0095"
-  },
-  "linux/environs/nwg-look.md": "TiTools",
-  "linux/environs/sway.md": "OcDeviceDesktop16",
-  "linux/security": {
-    "iconName": "BoBxsLock",
-    "iconColor": "#ff1a94"
-  },
-  "linux/security/Proton VPN.md": {
-    "iconName": "SiProtonvpn",
-    "iconColor": "#c933ff"
-  },
-  "linux/utilities": "FasToolbox",
-  "linux/utilities/bluetooth.md": {
-    "iconName": "FiBluetooth",
-    "iconColor": "#75c3ff"
-  },
-  "linux/toys": "TiHorseToy",
-  "linux/toys/real hacker shit.md": {
-    "iconName": "BoBxsCool",
-    "iconColor": "#ff813d"
-  },
-  "linux/utilities/yazi.md": {
-    "iconName": "CoFolders",
-    "iconColor": "#9900ff"
-  },
-  "linux/utilities/weather.md": {
-    "iconName": "IbWeather",
-    "iconColor": "#a3dcff"
-  },
-  "linux/system/pacman + yay.md": {
-    "iconName": "LiPackage",
-    "iconColor": "#59c065"
-  },
-  "linux/utilities/GitHub.md": {
-    "iconName": "LiGithub",
-    "iconColor": "#1fffa9"
-  },
-  "linux/utilities/kitty.md": {
-    "iconName": "RiTerminalBoxFill",
-    "iconColor": "#c1f462"
-  },
-  "linux/utilities/make alias.md": "FiTool",
-  "linux/utilities/neovim.md": "SiNeovim",
-  "linux/utilities/bash + zsh.md": {
-    "iconName": "OcCommandPalette16",
-    "iconColor": "#61ff64"
   },
   "games": {
     "iconName": "LiGhost",
@@ -165,5 +94,75 @@
     "iconName": "LiNotebookTabs",
     "iconColor": "#ff476c"
   },
-  "notes/daily": "LiListTodo"
+  "cauldron/linux": {
+    "iconName": "SiArchlinux",
+    "iconColor": "#8000ff"
+  },
+  "cauldron/linux/environs": {
+    "iconName": "FasTreeCity",
+    "iconColor": "#30c549"
+  },
+  "cauldron/linux/general recommendations.md": {
+    "iconName": "FasDove",
+    "iconColor": "#ffce7a"
+  },
+  "cauldron/linux/security": {
+    "iconName": "BoBxsLock",
+    "iconColor": "#ff1a94"
+  },
+  "cauldron/linux/system": {
+    "iconName": "RiAdminLine",
+    "iconColor": "#ff667d"
+  },
+  "cauldron/linux/toys": "TiHorseToy",
+  "cauldron/linux/utilities": "FasToolbox",
+  "cauldron/linux/environs/gtk + qt.md": "FiTool",
+  "cauldron/linux/environs/hyprland.md": {
+    "iconName": "OcDeviceDesktop16",
+    "iconColor": "#ff0095"
+  },
+  "cauldron/linux/environs/nwg-look.md": "TiTools",
+  "cauldron/linux/environs/sway.md": "OcDeviceDesktop16",
+  "cauldron/linux/security/Proton VPN.md": {
+    "iconName": "SiProtonvpn",
+    "iconColor": "#c933ff"
+  },
+  "cauldron/linux/system/pacman + yay.md": {
+    "iconName": "LiPackage",
+    "iconColor": "#59c065"
+  },
+  "cauldron/linux/system/system administration.md": {
+    "iconName": "RiAdminLine",
+    "iconColor": "#00ff88"
+  },
+  "cauldron/linux/toys/real hacker shit.md": {
+    "iconName": "BoBxsCool",
+    "iconColor": "#ff813d"
+  },
+  "cauldron/linux/utilities/GitHub.md": {
+    "iconName": "LiGithub",
+    "iconColor": "#1fffa9"
+  },
+  "cauldron/linux/utilities/bash + zsh.md": {
+    "iconName": "OcCommandPalette16",
+    "iconColor": "#61ff64"
+  },
+  "cauldron/linux/utilities/bluetooth.md": {
+    "iconName": "FiBluetooth",
+    "iconColor": "#75c3ff"
+  },
+  "cauldron/linux/utilities/kitty.md": {
+    "iconName": "RiTerminalBoxFill",
+    "iconColor": "#c1f462"
+  },
+  "cauldron/linux/utilities/make alias.md": "FiTool",
+  "cauldron/linux/utilities/neovim.md": "SiNeovim",
+  "cauldron/linux/utilities/weather.md": {
+    "iconName": "IbWeather",
+    "iconColor": "#a3dcff"
+  },
+  "cauldron/linux/utilities/yazi.md": {
+    "iconName": "CoFolders",
+    "iconColor": "#9900ff"
+  }
 }

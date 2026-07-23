@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "079ebf7c1cb61b75",
+        "id": "97f740e69c078820",
         "type": "tabs",
         "children": [
           {
-            "id": "85486b88cd845721",
+            "id": "a19fc73ee7600692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/GutHub sync - I THINK I DID IT!!!!.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GutHub sync - I THINK I DID IT!!!!"
+              "title": "New tab"
             }
           }
         ]
@@ -87,7 +83,8 @@
               "title": "*.+ HOME *.+"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -238,13 +235,13 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "85486b88cd845721",
+  "active": "a19fc73ee7600692",
   "lastOpenFiles": [
+    "*.+ HOME *.+.base",
+    "notes/GutHub sync - I THINK I DID IT!!!!.md",
     "books.md",
     "notes/I THINK I DID IT!!!!.md",
-    "notes/GutHub sync - I THINK I DID IT!!!!.md",
     "1) to do.md",
-    "*.+ HOME *.+.base",
     "linux/utilities/GitHub.md",
     "linux/system/pacman + yay.md",
     "notes/Linux to do.md",
@@ -267,7 +264,6 @@
     "music production/reaper/reaper notes.md",
     "music production/bitwig/bitwig studio notes.md",
     "z; days/2026-07-15.md",
-    "z; days/2026-07-19.md",
     "z; days",
     "music production/reaper",
     "music production/bitwig",

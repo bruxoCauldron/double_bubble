@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "170fffd151369c2d",
+        "id": "079ebf7c1cb61b75",
         "type": "tabs",
         "children": [
           {
-            "id": "a99a05d92e0e70d6",
+            "id": "85486b88cd845721",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,7 +225,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
@@ -236,18 +235,21 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "a99a05d92e0e70d6",
+  "active": "4dcbf36627ef38b3",
   "lastOpenFiles": [
-    "*.+ HOME *.+.base",
-    "notes/GutHub sync - I THINK I DID IT!!!!.md",
+    "notes/daily/2026-07-15.md",
+    "notes/daily",
     "books.md",
     "notes/I THINK I DID IT!!!!.md",
+    "notes/GutHub sync - I THINK I DID IT!!!!.md",
     "1) to do.md",
-    "linux/utilities/GitHub.md",
-    "linux/system/pacman + yay.md",
+    "*.+ HOME *.+.base",
+    "cauldron/linux/utilities/GitHub.md",
+    "cauldron/linux/system/pacman + yay.md",
     "notes/Linux to do.md",
     "notes/to do.md",
     "notes/useful links.md",
@@ -255,15 +257,15 @@
     "notes/messer chups.md",
     "notes/unzip files.md",
     "notes/Untitled 1.md",
-    "linux/environs/sway.md",
-    "linux/environs/nwg-look.md",
-    "linux/environs/hyprland.md",
-    "linux/environs/gtk + qt.md",
-    "linux/general recommendations.md",
-    "linux/utilities/bluetooth.md",
+    "cauldron/linux/environs/sway.md",
+    "cauldron/linux/environs/nwg-look.md",
+    "cauldron/linux/environs/hyprland.md",
+    "cauldron/linux/environs/gtk + qt.md",
+    "cauldron/linux/general recommendations.md",
+    "cauldron/linux/utilities/bluetooth.md",
     "Untitled.base",
     "pkgbuil.md",
-    "linux/toys/real hacker shit.md",
+    "cauldron/linux/toys/real hacker shit.md",
     "music production/musical to do.md",
     "music production/reaper/reaper notes.md",
     "music production/bitwig/bitwig studio notes.md",
@@ -272,10 +274,9 @@
     "music production/reaper",
     "music production/bitwig",
     "music production",
-    "notes/daily",
+    "daily",
     "cauldron/languages",
     "games/factorio/factorio flow - the path to science.canvas",
-    "games/dwarf fortress",
-    "games/factorio"
+    "games/dwarf fortress"
   ]
 }

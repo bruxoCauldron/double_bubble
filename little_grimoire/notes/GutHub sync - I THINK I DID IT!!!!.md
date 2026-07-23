@@ -23,3 +23,11 @@ dependency:
 - [ ] SSH setup on both machines
 	- [x] machine 1
 	- [ ] machine 2 (mac setup)
+
+### this is a test
+1. open obsidian on arch cauldron
+2. edit vault
+3. press github ribbon icon
+4. close obsidian on arch cauldron
+5. open obsidian on mac cauldron
+6. ...

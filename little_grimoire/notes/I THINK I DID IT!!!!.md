@@ -1,4 +1,7 @@
 ### did i do it?
-- [ ] i did it !!!!!! :DDDDDD
+- [x] i did it !!!!!! :DDDDDD
 
 what what what
+
+- [ ] can i do it again????
+	- [ ] is it worth the trouble

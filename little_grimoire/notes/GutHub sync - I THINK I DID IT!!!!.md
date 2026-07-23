@@ -14,3 +14,4 @@ what what what
 3. push the commits to the origin remote
 4. *on the other machine*: open: GitHub
 5. `Fetch origin`
+6. `Pull origin`

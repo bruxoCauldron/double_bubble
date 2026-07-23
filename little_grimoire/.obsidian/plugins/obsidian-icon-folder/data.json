@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
+      "SiObsidian",
+      "SiArchlinux",
       "RiCalendarTodoLine",
       "RaScythe",
-      "SiBitwig",
-      "LiAudioWaveform",
-      "SiMidi"
+      "SiBitwig"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -94,5 +94,13 @@
     "iconName": "LiNotebookTabs",
     "iconColor": "#ff476c"
   },
-  "notes/daily": "LiListTodo"
+  "notes/daily": "LiListTodo",
+  "cauldron/linux": {
+    "iconName": "SiArchlinux",
+    "iconColor": "#3d5dff"
+  },
+  "obsidian": {
+    "iconName": "SiObsidian",
+    "iconColor": "#201a75"
+  }
 }

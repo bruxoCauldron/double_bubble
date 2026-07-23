@@ -43,5 +43,14 @@
       "value": "#ff2e2e"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "cauldron/linux",
+      "color": "UGMAOXVc8l57mqvzx62eb"
+    },
+    {
+      "path": "obsidian",
+      "color": "FXf6oLqUf-45ON5DQICsL"
+    }
+  ]
 }

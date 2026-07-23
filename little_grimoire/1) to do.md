@@ -1,5 +1,7 @@
-pacman upgrade update cleanup etc
+[[Linux to do]]
+[[obsidian to do]]
 
+pacman upgrade update cleanup etc
 ### aesthetics
 - [x] [[kitty]]
 	- [x] maple mono nerd font

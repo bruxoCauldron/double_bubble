@@ -36,13 +36,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "cauldron/linux/general recommendations.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "games/factorio/factorio notes.md",
         "patternType": "STRICT"
       },

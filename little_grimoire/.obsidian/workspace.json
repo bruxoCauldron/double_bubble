@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97f740e69c078820",
+        "id": "170fffd151369c2d",
         "type": "tabs",
         "children": [
           {
-            "id": "a19fc73ee7600692",
+            "id": "a99a05d92e0e70d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -225,6 +225,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
@@ -238,7 +239,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "a19fc73ee7600692",
+  "active": "a99a05d92e0e70d6",
   "lastOpenFiles": [
     "*.+ HOME *.+.base",
     "notes/GutHub sync - I THINK I DID IT!!!!.md",
@@ -271,7 +272,7 @@
     "music production/reaper",
     "music production/bitwig",
     "music production",
-    "daily",
+    "notes/daily",
     "cauldron/languages",
     "games/factorio/factorio flow - the path to science.canvas",
     "games/dwarf fortress",

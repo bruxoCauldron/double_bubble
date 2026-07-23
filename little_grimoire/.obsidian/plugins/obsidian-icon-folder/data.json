@@ -151,7 +151,6 @@
     "iconName": "FasTerminal",
     "iconColor": "#668af4"
   },
-  "daily": "LiListTodo",
   "music production": {
     "iconName": "LiAudioWaveform",
     "iconColor": "#00bd52"
@@ -165,5 +164,6 @@
   "notes": {
     "iconName": "LiNotebookTabs",
     "iconColor": "#ff476c"
-  }
+  },
+  "notes/daily": "LiListTodo"
 }

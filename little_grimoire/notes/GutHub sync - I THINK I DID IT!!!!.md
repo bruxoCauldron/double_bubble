@@ -16,3 +16,5 @@ what what what
 4. `commit to main`
 5. `Push to origin remote`
 
+#### GitHub sync obsidian plugin
+

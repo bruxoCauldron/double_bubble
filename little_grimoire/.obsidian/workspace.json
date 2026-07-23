@@ -11,10 +11,14 @@
             "id": "a19fc73ee7600692",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/GutHub sync - I THINK I DID IT!!!!.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GutHub sync - I THINK I DID IT!!!!"
             }
           }
         ]
@@ -83,8 +87,7 @@
               "title": "*.+ HOME *.+"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",

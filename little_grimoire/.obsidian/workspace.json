@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06e536637725dcd5",
+        "id": "afb512148778d52d",
         "type": "tabs",
         "children": [
           {
-            "id": "f1bfa943a4b345e4",
+            "id": "089c2098d80b8c18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cauldron/linux/security/SSH keys.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SSH keys"
+              "title": "New tab"
             }
           }
         ]
@@ -239,10 +235,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "f1bfa943a4b345e4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "*.+ HOME *.+.base",
     "cauldron/linux/security/SSH keys.md",
+    "*.+ HOME *.+.base",
     "notes/japanese.md",
     "obsidian/obsidian to do.md",
     "obsidian",

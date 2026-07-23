@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "079ebf7c1cb61b75",
+        "id": "7b0769a5de6da581",
         "type": "tabs",
         "children": [
           {
-            "id": "85486b88cd845721",
+            "id": "6435b007bee472a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/I THINK I DID IT!!!!.md",
+                "file": "notes/GutHub sync - I THINK I DID IT!!!!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I THINK I DID IT!!!!"
+              "title": "GutHub sync - I THINK I DID IT!!!!"
             }
           }
         ]
@@ -195,8 +195,18 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
+              "icon": "lucide-ghost",
+              "title": "planner-time-tracker"
+            }
+          },
+          {
+            "id": "daea7bcda6fe269c",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -225,8 +235,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -234,19 +242,19 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "85486b88cd845721",
+  "active": "6435b007bee472a7",
   "lastOpenFiles": [
-    "books.md",
-    "notes/I THINK I DID IT!!!!.md",
-    "1) to do.md",
+    "notes/Linux to do.md",
+    "notes/GutHub sync - I THINK I DID IT!!!!.md",
     "*.+ HOME *.+.base",
     "linux/utilities/GitHub.md",
     "linux/system/pacman + yay.md",
-    "notes/Linux to do.md",
     "notes/to do.md",
     "notes/useful links.md",
     "notes/2026-07-15.md",
@@ -258,6 +266,7 @@
     "linux/environs/hyprland.md",
     "linux/environs/gtk + qt.md",
     "linux/general recommendations.md",
+    "books.md",
     "linux/utilities/bluetooth.md",
     "Untitled.base",
     "pkgbuil.md",
@@ -272,6 +281,7 @@
     "music production/bitwig",
     "games/dwarf fortress/dtf notes.md",
     "music production",
+    "games/factorio/factorio notes.md",
     "daily",
     "cauldron/languages",
     "games/factorio/factorio flow - the path to science.canvas",

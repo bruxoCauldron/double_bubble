@@ -17,4 +17,8 @@ what what what
 5. `Push to origin remote`
 
 #### GitHub sync obsidian plugin
+dependency: 
+- [ ] SSH setup on both machines
+	- [x] machine 1
+	- [ ] machine 2
 

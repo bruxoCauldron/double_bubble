@@ -1,3 +1,5 @@
 - [ ] figure out a good solution for taking notes on books
 - [ ] figure out tables
 - [ ] firgure out bases
+- [ ] 8=D
+- [ ] suck it and goodbye

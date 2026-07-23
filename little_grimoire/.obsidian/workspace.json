@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0f6c90c703d5fb",
+        "id": "ebec450be00d650d",
         "type": "tabs",
         "children": [
           {
-            "id": "00a1bb1be16374f2",
+            "id": "6599848c7d1b2bc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/japanese.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "japanese"
             }
           }
         ]
@@ -235,12 +239,13 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6599848c7d1b2bc1",
   "lastOpenFiles": [
     "obsidian/obsidian to do.md",
+    "notes/japanese.md",
+    "*.+ HOME *.+.base",
     "obsidian",
     "notes/GutHub sync - I THINK I DID IT!!!!.md",
-    "*.+ HOME *.+.base",
     "notes/Untitled.md",
     "notes/Linux to do.md",
     "notes/daily/2026-07-15.md",
@@ -266,7 +271,6 @@
     "pkgbuil.md",
     "cauldron/linux/toys/real hacker shit.md",
     "music production/musical to do.md",
-    "music production/reaper/reaper notes.md",
     "z; days",
     "music production/reaper",
     "music production/bitwig",

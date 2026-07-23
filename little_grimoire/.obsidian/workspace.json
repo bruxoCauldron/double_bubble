@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1) to do.md",
+                "file": "books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1) to do"
+              "title": "books"
             }
           }
         ]
@@ -240,6 +240,7 @@
   },
   "active": "85486b88cd845721",
   "lastOpenFiles": [
+    "1) to do.md",
     "*.+ HOME *.+.base",
     "linux/utilities/GitHub.md",
     "linux/system/pacman + yay.md",

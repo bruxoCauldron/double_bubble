@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b0769a5de6da581",
+        "id": "079ebf7c1cb61b75",
         "type": "tabs",
         "children": [
           {
-            "id": "6435b007bee472a7",
+            "id": "85486b88cd845721",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -87,8 +87,7 @@
               "title": "*.+ HOME *.+"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",

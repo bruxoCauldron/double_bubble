@@ -6,4 +6,6 @@ what what what
 - [x] can i do it again????
 	- [ ] is it worth the trouble
 	- [ ] let's see for sure
+	- [ ] okay for real for real???
+	- [ ] 
 

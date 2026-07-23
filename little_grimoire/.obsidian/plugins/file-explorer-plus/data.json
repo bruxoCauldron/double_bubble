@@ -52,6 +52,13 @@
         "type": "FILES",
         "pattern": "games/dwarf fortress/dtf notes.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "obsidian/obsidian to do.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

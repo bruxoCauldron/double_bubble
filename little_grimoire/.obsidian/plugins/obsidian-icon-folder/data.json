@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
+      "OcBook16",
       "SiObsidian",
       "SiArchlinux",
       "RiCalendarTodoLine",
-      "RaScythe",
-      "SiBitwig"
+      "RaScythe"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,10 +86,6 @@
   },
   "music production/bitwig": "SiBitwig",
   "music production/reaper": "RaScythe",
-  "z; days": {
-    "iconName": "RiCalendarTodoLine",
-    "iconColor": "#8b3dff"
-  },
   "notes": {
     "iconName": "LiNotebookTabs",
     "iconColor": "#ff476c"
@@ -102,5 +98,6 @@
   "obsidian": {
     "iconName": "SiObsidian",
     "iconColor": "#201a75"
-  }
+  },
+  "books": "OcBook16"
 }

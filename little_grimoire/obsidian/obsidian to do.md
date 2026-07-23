@@ -1,5 +1,13 @@
-- [ ] figure out a good solution for taking notes on books
-- [ ] figure out tables
-- [ ] firgure out bases
-- [ ] 8=D
-- [ ] suck it and goodbye
+- [ ] figure out a good solution for taking [[notes on books]]
+	- [ ] actionable: watch a video
+	- [ ] two videos even
+- [ ] figure out [[tables]]
+	- [ ] watch a video
+	- [ ] another
+- [ ] firgure out [[bases]]
+	- [ ] video 1
+	- [ ] video 2
+- [ ] figure out [[properties]]
+	- [ ] 1
+	- [ ] 2
+- [ ] take notes on the above

@@ -1,5 +1,5 @@
 
-#arch #cauldron #code #html #css #webdevelopment 
+#html #code #javascript #webdesign #css #cauldron
 *html structures webpages*
 [[coding resources]]
 # [[web development]] languages

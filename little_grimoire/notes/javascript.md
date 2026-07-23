@@ -1,5 +1,5 @@
 
-#html #code #javascript #webdevelopment #css #cauldron 
+#html #code #javascript #webdesign #css #cauldron 
 *javascript adds interactivity to webpages*
 [[coding resources]]
 # [[web development]] languages

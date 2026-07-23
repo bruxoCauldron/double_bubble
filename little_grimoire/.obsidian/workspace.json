@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe33ee65ced057f0",
+        "id": "7d00729572aad4e1",
         "type": "tabs",
         "children": [
           {
-            "id": "3e78979b660cbef0",
+            "id": "807373d980331a3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cauldron/languages/css.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "css"
             }
           }
         ]
@@ -50,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#code",
+                "query": "tag:#webdevelopment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "f2fbb4757c6a82af",
@@ -215,7 +219,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "33971da099213a27",
@@ -253,13 +257,13 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "877c89bfdee630db",
+  "active": "13325318c1f365c5",
   "lastOpenFiles": [
-    "*.+ HOME *.+.base",
-    "cauldron/languages/python.md",
     "cauldron/languages/html.md",
     "cauldron/languages/css.md",
     "notes/javascript.md",
+    "cauldron/languages/python.md",
+    "*.+ HOME *.+.base",
     "notes/learn to code.md",
     "cauldron/linux/security/Proton VPN.md",
     "cauldron/linux/security/SSH keys.md",

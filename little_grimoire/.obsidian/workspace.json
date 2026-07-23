@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afb512148778d52d",
+        "id": "fe33ee65ced057f0",
         "type": "tabs",
         "children": [
           {
-            "id": "089c2098d80b8c18",
+            "id": "3e78979b660cbef0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,6 +29,7 @@
       {
         "id": "007880b44fefbd65",
         "type": "tabs",
+        "dimension": 62.32091690544412,
         "children": [
           {
             "id": "4dcbf36627ef38b3",
@@ -49,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "tag:#code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,6 +86,23 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "f2fbb4757c6a82af",
+        "type": "tabs",
+        "dimension": 37.67908309455588,
+        "children": [
+          {
+            "id": "877c89bfdee630db",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,10 +253,16 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "877c89bfdee630db",
   "lastOpenFiles": [
-    "cauldron/linux/security/SSH keys.md",
     "*.+ HOME *.+.base",
+    "cauldron/languages/python.md",
+    "cauldron/languages/html.md",
+    "cauldron/languages/css.md",
+    "notes/javascript.md",
+    "notes/learn to code.md",
+    "cauldron/linux/security/Proton VPN.md",
+    "cauldron/linux/security/SSH keys.md",
     "notes/japanese.md",
     "obsidian/obsidian to do.md",
     "obsidian",
@@ -259,13 +283,7 @@
     "notes/Untitled 1.md",
     "cauldron/linux/environs/sway.md",
     "cauldron/linux/environs/nwg-look.md",
-    "cauldron/linux/environs/hyprland.md",
-    "cauldron/linux/environs/gtk + qt.md",
-    "cauldron/linux/general recommendations.md",
-    "cauldron/linux/utilities/bluetooth.md",
     "Untitled.base",
-    "pkgbuil.md",
-    "cauldron/linux/toys/real hacker shit.md",
     "z; days",
     "music production/reaper",
     "music production/bitwig",

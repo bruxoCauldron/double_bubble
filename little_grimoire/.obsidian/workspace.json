@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebe583e963cc7cd3",
+        "id": "a435d4914f920e4e",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba1e45487b55391",
+            "id": "1a5ea61e4d5f708b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -240,7 +240,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8ba1e45487b55391",
+  "active": "1a5ea61e4d5f708b",
   "lastOpenFiles": [
     "*.+ HOME *.+.base",
     "notes/GutHub sync - I THINK I DID IT!!!!.md",

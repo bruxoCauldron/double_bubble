@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a435d4914f920e4e",
+        "id": "1a0f6c90c703d5fb",
         "type": "tabs",
         "children": [
           {
-            "id": "1a5ea61e4d5f708b",
+            "id": "00a1bb1be16374f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian/obsidian to do.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "obsidian to do"
+              "title": "New tab"
             }
           }
         ]
@@ -87,7 +83,8 @@
               "title": "*.+ HOME *.+"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,18 +192,8 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-time-tracker"
-            }
-          },
-          {
-            "id": "13e779ef38af6c4d",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "timer",
+              "title": "Time Tracker"
             }
           }
         ],
@@ -235,6 +222,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -242,29 +231,26 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
-      "omnisearch:Omnisearch": false,
-      "homepage:Open homepage": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "1a5ea61e4d5f708b",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "obsidian",
-    "1) to do.md",
     "obsidian/obsidian to do.md",
-    "notes/to do.md",
-    "notes/Linux to do.md",
-    "books.md",
-    "z; days/2026-07-15.md",
+    "obsidian",
     "notes/GutHub sync - I THINK I DID IT!!!!.md",
     "*.+ HOME *.+.base",
     "notes/Untitled.md",
+    "notes/Linux to do.md",
     "notes/daily/2026-07-15.md",
     "notes/daily",
+    "books.md",
     "notes/I THINK I DID IT!!!!.md",
+    "1) to do.md",
     "cauldron/linux/utilities/GitHub.md",
     "cauldron/linux/system/pacman + yay.md",
+    "notes/to do.md",
     "notes/useful links.md",
     "notes/2026-07-15.md",
     "notes/messer chups.md",
@@ -279,13 +265,14 @@
     "Untitled.base",
     "pkgbuil.md",
     "cauldron/linux/toys/real hacker shit.md",
+    "music production/musical to do.md",
+    "music production/reaper/reaper notes.md",
     "z; days",
     "music production/reaper",
     "music production/bitwig",
     "music production",
     "daily",
     "cauldron/languages",
-    "games/factorio/factorio flow - the path to science.canvas",
-    "games/dwarf fortress"
+    "games/factorio/factorio flow - the path to science.canvas"
   ]
 }

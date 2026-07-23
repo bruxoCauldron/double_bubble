@@ -20,5 +20,4 @@ what what what
 dependency: 
 - [ ] SSH setup on both machines
 	- [x] machine 1
-	- [ ] machine 2
-
+	- [ ] machine 2 (mac setup)

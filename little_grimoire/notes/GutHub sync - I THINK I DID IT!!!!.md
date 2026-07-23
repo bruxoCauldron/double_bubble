@@ -12,4 +12,5 @@ what what what
 1. make changes to the vault
 2. on GitHub: `commit to main`
 3. push the commits to the origin remote
-4. 
+4. *on the other machine*: open: GitHub
+5. `Fetch origin`

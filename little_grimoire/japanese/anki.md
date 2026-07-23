@@ -1,0 +1,2 @@
+- [ ] get anki on arch?
+	- [ ] sync anki library maybe even??

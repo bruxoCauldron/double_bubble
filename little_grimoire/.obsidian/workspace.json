@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0054331ede696eae",
+        "id": "90963c80962db1ff",
         "type": "tabs",
         "children": [
           {
-            "id": "3036b2fb1a75ff08",
+            "id": "968bd530a6bf2fe6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "japanese/anki.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "anki"
             }
           }
         ]
@@ -60,36 +64,13 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "09e0895bd10dd5cb",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "*.+ HOME *.+.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "*.+ HOME *.+"
-            }
           }
         ]
       },
       {
         "id": "f2fbb4757c6a82af",
         "type": "tabs",
-        "dimension": 29.063097514340345,
+        "dimension": 29.06309751434035,
         "children": [
           {
             "id": "877c89bfdee630db",
@@ -105,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 214.5
   },
   "right": {
     "id": "77f71b96c4a426ab",
@@ -252,8 +233,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "4dcbf36627ef38b3",
+  "active": "968bd530a6bf2fe6",
   "lastOpenFiles": [
+    "japanese/japanese.md",
+    "japanese/anki.md",
+    "japanese",
+    "*.+ HOME *.+.base",
     "notes/daily/2026-07-15 1.md",
     "obsidian/GutHub sync - I THINK I DID IT!!!!.md",
     "notes/messer chups.md",
@@ -269,13 +254,11 @@
     "books/notes on books.md",
     "books",
     "cauldron/linux/utilities/neovim.md",
-    "*.+ HOME *.+.base",
     "cauldron/languages/css.md",
     "cauldron/languages/html.md",
     "cauldron/languages/python.md",
     "cauldron/linux/security/Proton VPN.md",
     "cauldron/linux/security/SSH keys.md",
-    "notes/japanese.md",
     "obsidian",
     "notes/daily/2026-07-15.md",
     "notes/daily",
@@ -283,13 +266,11 @@
     "notes/I THINK I DID IT!!!!.md",
     "1) to do.md",
     "cauldron/linux/utilities/GitHub.md",
-    "cauldron/linux/system/pacman + yay.md",
     "Untitled.base",
     "z; days",
     "music production/reaper",
     "music production/bitwig",
     "music production",
-    "daily",
     "games/factorio/factorio flow - the path to science.canvas"
   ]
 }

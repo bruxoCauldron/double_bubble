@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
+      "TiLanguageHiragana",
       "OcBook16",
       "SiObsidian",
       "SiArchlinux",
-      "RiCalendarTodoLine",
-      "RaScythe"
+      "RiCalendarTodoLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -99,5 +99,6 @@
     "iconName": "SiObsidian",
     "iconColor": "#201a75"
   },
-  "books": "OcBook16"
+  "books": "OcBook16",
+  "japanese": "TiLanguageHiragana"
 }

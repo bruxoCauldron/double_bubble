@@ -11,4 +11,5 @@ what what what
 # on GitHub desktop
 1. make changes to the vault
 2. on GitHub: `commit to main`
-3. 
+3. push the commits to the origin remote
+4. 

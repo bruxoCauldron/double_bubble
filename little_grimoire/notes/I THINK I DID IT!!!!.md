@@ -3,5 +3,7 @@
 
 what what what
 
-- [ ] can i do it again????
+- [x] can i do it again????
 	- [ ] is it worth the trouble
+	- [ ] let's see for sure
+

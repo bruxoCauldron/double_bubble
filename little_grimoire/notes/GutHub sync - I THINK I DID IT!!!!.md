@@ -9,9 +9,10 @@ what what what
 	- [x] okay for real for real???
 
 # on GitHub desktop
-1. make changes to the vault
-2. on GitHub: `commit to main`
-3. `push` the commits to the origin remote
-4. *on the other machine*: open: GitHub
-5. `Fetch origin`
-6. `Pull origin`
+
+1. `Fetch origin`
+2. `Pull origin`
+3. open obsidian and make changes to vault
+4. `commit to main`
+5. `Push to origin remote`
+

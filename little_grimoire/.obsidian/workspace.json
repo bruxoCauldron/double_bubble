@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6bc98c98672153fb",
+        "id": "7b0769a5de6da581",
         "type": "tabs",
         "children": [
           {
-            "id": "ec72f215cc61818d",
+            "id": "6435b007bee472a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/I THINK I DID IT!!!!.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "I THINK I DID IT!!!!"
             }
           }
         ]
@@ -192,8 +196,18 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
+              "icon": "lucide-ghost",
+              "title": "planner-time-tracker"
+            }
+          },
+          {
+            "id": "daea7bcda6fe269c",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -222,8 +236,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -231,14 +243,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "graph:Open graph view": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6435b007bee472a7",
   "lastOpenFiles": [
-    "linux/utilities/GitHub.md",
+    "notes/I THINK I DID IT!!!!.md",
     "*.+ HOME *.+.base",
+    "linux/utilities/GitHub.md",
     "linux/system/pacman + yay.md",
     "notes/Linux to do.md",
     "notes/to do.md",
@@ -268,7 +283,6 @@
     "games/dwarf fortress/dtf notes.md",
     "music production",
     "games/factorio/factorio notes.md",
-    "daily/2026-07-15.md",
     "daily",
     "cauldron/languages",
     "games/factorio/factorio flow - the path to science.canvas",

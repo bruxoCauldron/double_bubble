@@ -7,10 +7,10 @@
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
       "LiDollarSign",
-      "LiText",
-      "TiNotes",
-      "FasGuitar",
-      "SiJavascript"
+      "RiMoneyDollarBoxFill",
+      "SiJavascript",
+      "TiHtml",
+      "TiFileTypeCss"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,33 +33,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "dtf notes.md": {
-    "iconName": "RiSwordFill",
-    "iconColor": "#00ffcc"
-  },
-  "factorio flow - the path to science.canvas": "LiWorkflow",
-  "factorio notes.md": {
-    "iconName": "FasGear",
-    "iconColor": "#ff9500"
-  },
-  "SuperShell.md": {
-    "iconName": "FasTerminal",
-    "iconColor": "#668af4"
-  },
-  "css.md": "TiFileTypeCss",
-  "html.md": "TiHtml",
-  "javascript.md": "SiJavascript",
-  "python.md": {
-    "iconName": "SiPython",
-    "iconColor": "#a9ff7a"
-  },
-  "rust.md": {
-    "iconName": "SiRust",
-    "iconColor": "#ff2424"
-  },
-  "digital forensics.md": {
-    "iconName": "RiFingerprintFill",
-    "iconColor": "#db48cf"
   }
 }

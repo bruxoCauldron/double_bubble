@@ -1,4 +1,11 @@
-#linux #terminal #utility 
+---
+tags:
+  - linux
+  - terminal
+  - utility
+  - arch
+  - cauldron
+---
 ### change to bash
 *run*: `chsh -s /bin/bash`
 reboot to take effect

@@ -1,5 +1,12 @@
-
-#linux #nvim 
+---
+tags:
+  - nvim
+  - neovim
+  - linux
+  - code
+  - arch
+  - cauldron
+---
 *text editor*
 # customize neovim
 *config path*: [find it...]

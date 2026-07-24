@@ -1,5 +1,11 @@
-#utility #terminal #system-admin #linux 
-
+---
+tags:
+  - utility
+  - terminal
+  - system-admin
+  - linux
+  - zsh
+---
 `~/.zshrc`
 `alias <desired command>='<output>'
 e.g.,

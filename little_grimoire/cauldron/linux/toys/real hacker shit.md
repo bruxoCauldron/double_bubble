@@ -1,4 +1,11 @@
-#linux #terminal #code 
+---
+tags:
+  - linux
+  - terminal
+  - code
+  - arch
+  - cauldron
+---
 **run**: 
 `ninvaders`
 `asciiquarium`

@@ -1,6 +1,10 @@
-#utility #terminal 
-
-`~$ curl wttr.in/<location>` to get the weather in your terminal.
+---
+tags:
+  - terminal
+  - utility
+  - linux
+---
+run: `curl wttr.in/<location>` to get the weather in your terminal.
 
 ```❯ curl wttr.in/kofu
 Weather report: kofu

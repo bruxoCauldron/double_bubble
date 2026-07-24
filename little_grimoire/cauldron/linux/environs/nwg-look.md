@@ -1,4 +1,9 @@
-#themes #hyprland #linux #utility 
-
+---
+tags:
+  - themes
+  - hyprland
+  - linux
+  - utility
+---
 [[gtk]]
 [[themes]]

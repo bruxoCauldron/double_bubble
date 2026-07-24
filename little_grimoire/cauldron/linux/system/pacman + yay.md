@@ -1,4 +1,10 @@
-ri#linux #system-admin #package-management
+---
+tags:
+  - linux
+  - system-admin
+  - package-management
+  - arch
+---
 ##### resources: 
 
 ##### files:

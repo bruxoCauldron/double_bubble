@@ -1,4 +1,11 @@
-#linux #terminal #organization #system-admin #utility 
+---
+tags:
+  - linux
+  - terminal
+  - organization
+  - system-admin
+  - utility
+---
 https://yazi-rs.github.io/docs/configuration/theme/
 *files*: 
 `~/.config/yazi/yazi.toml`

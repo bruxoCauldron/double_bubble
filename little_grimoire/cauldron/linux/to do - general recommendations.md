@@ -1,5 +1,10 @@
-#linux #arch 
-
+---
+tags:
+  - linux
+  - arch
+  - cauldron
+  - system-admin
+---
 - [ ] go through this:
 	https://wiki.archlinux.org/title/General_recommendations
 
@@ -9,5 +14,4 @@
 		- [ ] make note in obsidian
 	- [ ] see if its possible to configure properly through the dns setting in [[Proton VPN]] 
 		(run: `vpn`)
-- [ ] figure out cpu optimization for [[dtf notes|dwarf fortress]]  
-
+- [ ] figure out cpu optimization for [[dtf notes|dwarf fortress]]

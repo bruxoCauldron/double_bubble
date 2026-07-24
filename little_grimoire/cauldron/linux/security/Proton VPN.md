@@ -1,4 +1,11 @@
-#security #utility #linux #vpn #dns
+---
+tags:
+  - security
+  - utility
+  - linux
+  - vpn
+  - dns
+---
 ##### files:
 `~/.config/pvpn/config.toml`
 

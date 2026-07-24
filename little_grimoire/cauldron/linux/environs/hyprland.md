@@ -1,4 +1,10 @@
-#hyprland #linux 
+---
+tags:
+  - hyprland
+  - linux
+  - arch
+  - cauldron
+---
 ##### resources:
 https://wiki.hypr.land/Getting-Started/Master-Tutorial/
 ##### files:

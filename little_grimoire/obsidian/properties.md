@@ -1,7 +1,6 @@
 ---
 tags:
   - obsidian
-  - notes
 ---
 *properties* are added to the beginning of [[obsidian]] notes with 3 - dashes `---` 
 

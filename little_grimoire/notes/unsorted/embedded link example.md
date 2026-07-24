@@ -1,0 +1,1 @@
+[[obsidian cheatsheet|like this]]

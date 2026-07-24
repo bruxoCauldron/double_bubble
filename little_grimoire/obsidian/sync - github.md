@@ -1,5 +1,10 @@
-
-#arch #obsidian #git #github
+---
+tags:
+  - arch
+  - obsidian
+  - git
+  - github
+---
 ### did i do it?
 - [x] i did it !!!!!! :DDDDDD
 

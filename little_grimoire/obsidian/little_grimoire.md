@@ -8,7 +8,7 @@ tags:
   - adhd
   - education
 ---
-*little_grimoire*: behavior, general, notes
+*little_grimoire*: ==behavior, general, notes==
 # note taking
 - new notes appear in `notes/unsorted`
 - [[notes on notes on books|how to take book notes in obsidian]]

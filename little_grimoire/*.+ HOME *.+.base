@@ -1,6 +1,10 @@
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - tags
+      - file.tags
     sort:
       - property: file.mtime
         direction: DESC

@@ -1,3 +1,8 @@
-#utility #linux 
-
-**run** : `bluetui` 
+---
+tags:
+  - utility
+  - linux
+  - arch
+  - terminal
+---
+**run** : `bluetui`

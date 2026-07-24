@@ -1,4 +1,14 @@
-#git #obsidian #linux 
+---
+tags:
+  - git
+  - github
+  - obsidian
+  - linux
+  - arch
+  - cauldron
+---
+![[sync - github]]
+
 https://github.com/bruxoCauldron/double_bubble
 
 #### comit to repo protocol

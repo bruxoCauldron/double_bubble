@@ -1,3 +1,10 @@
+---
+tags:
+  - games
+  - arch
+  - factorio
+---
+
 ## to do
 - [ ] set up that train boyeee
 

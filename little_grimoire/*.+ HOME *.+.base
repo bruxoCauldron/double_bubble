@@ -3,8 +3,10 @@ views:
     name: Table
     order:
       - file.name
-      - tags
       - file.tags
-    sort:
-      - property: file.mtime
-        direction: DESC
+      - file.path
+    sort: []
+    columnSize:
+      file.name: 259
+      file.backlinks: 275
+      file.path: 277

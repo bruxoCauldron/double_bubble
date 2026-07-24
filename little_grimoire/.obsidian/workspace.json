@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce933bf21bd616df",
+        "id": "884b17071ae65366",
         "type": "tabs",
         "children": [
           {
-            "id": "9e7da58a2f21145d",
+            "id": "816246722d713b5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "games/factorio/factorio notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "factorio notes"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,19 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "*.+ HOME *.+.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "*.+ HOME *.+"
             }
           }
         ]
@@ -166,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "games/factorio/factorio notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of factorio notes"
             }
           },
           {
@@ -199,13 +191,15 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "games/factorio/factorio notes.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for factorio notes"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "33971da099213a27",
@@ -244,9 +238,14 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "9e7da58a2f21145d",
+  "active": "816246722d713b5c",
   "lastOpenFiles": [
+    "games/dwarf fortress/dtf notes.md",
+    "games/factorio/factorio notes.md",
     "*.+ HOME *.+.base",
+    "obsidian/bases.md",
+    "obsidian/obsidian to do.md",
+    "books/notes on notes on books.md",
     "cauldron/linux/utilities/weather.md",
     "cauldron/linux/utilities/yazi.md",
     "cauldron/linux/utilities/make alias.md",
@@ -266,12 +265,8 @@
     "cauldron/linux/utilities/neovim.md",
     "obsidian/sync - github.md",
     "cauldron/linux/to do - general recommendations.md",
-    "obsidian/bases.md",
-    "obsidian/obsidian to do.md",
     "books/notes on books.md",
     "obsidian/tables.md",
-    "notes/unsorted/obsidian cheatsheet.md",
-    "notes/unsorted/maps.md",
     "guitar",
     "wealth",
     "notes/unsorted",

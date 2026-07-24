@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "90963c80962db1ff",
+        "id": "fb3458df538a6af8",
         "type": "tabs",
         "children": [
           {
-            "id": "968bd530a6bf2fe6",
+            "id": "2245e62c2ecf1310",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "japanese/anki.md",
-                "mode": "source",
-                "source": false
+                "file": "*.+ HOME *.+.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "anki"
+              "icon": "lucide-table",
+              "title": "*.+ HOME *.+"
             }
           }
         ]
@@ -63,6 +62,16 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "073626839ef29daa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -233,10 +242,10 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "968bd530a6bf2fe6",
+  "active": "2245e62c2ecf1310",
   "lastOpenFiles": [
-    "japanese/japanese.md",
     "japanese/anki.md",
+    "japanese/japanese.md",
     "japanese",
     "*.+ HOME *.+.base",
     "notes/daily/2026-07-15 1.md",

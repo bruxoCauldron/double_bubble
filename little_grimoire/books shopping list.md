@@ -1,3 +1,14 @@
+---
+tags:
+  - books
+  - kindle
+  - reading
+  - education
+  - enrichment
+---
 - [ ] jacques valle - passport to megonia
+	- [ ] every valle book actually
 - [ ] the red book, readers edition
 - [ ] trickster makes this world - lewis hyde
+- [ ] joshua cutchin
+	- [ ] every book by this guy

@@ -1,6 +1,0 @@
----
-tags:
-  - linux
-  - themes
-  - arch
----

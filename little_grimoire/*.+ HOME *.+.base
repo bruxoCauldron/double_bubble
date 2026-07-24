@@ -1,8 +1,12 @@
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: Table
     order:
       - file.name
+      - file.backlinks
+      - file.tags
     sort: []
     columnSize:
       file.name: 259

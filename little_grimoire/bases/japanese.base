@@ -1,0 +1,6 @@
+filters:
+  or:
+    - file.tags.contains("japanese")
+views:
+  - type: table
+    name: Table

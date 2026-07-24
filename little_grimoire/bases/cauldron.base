@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.tags.containsAny("cauldron", "arch")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.backlinks
+      - file.tags
+    sort:
+      - property: file.backlinks
+        direction: DESC
+    columnSize:
+      file.name: 231
+      file.backlinks: 313
+      file.tags: 726
+  - type: cards
+    name: View
+  - type: list
+    name: View 2

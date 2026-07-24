@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.tags.containsAny("projects", "business")
+views:
+  - type: table
+    name: Table

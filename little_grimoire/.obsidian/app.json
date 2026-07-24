@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes/unsorted"
+  "newFileFolderPath": "+",
+  "attachmentFolderPath": "X/attachments"
 }

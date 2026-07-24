@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
-      "LiDollarSign",
-      "RiMoneyDollarBoxFill",
-      "SiJavascript",
-      "TiHtml",
-      "TiFileTypeCss"
+      "FasBrain",
+      "RiBrainFill",
+      "TiSchool",
+      "TiPaint",
+      "LiPaintbrush"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,11 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "bases/cauldron.base": "FiCpu",
+  "bases/japanese.base": "LiLanguages",
+  "bases/music.base": "FasGuitar",
+  "bases/obsidian.base": "SiObsidian",
+  "bases/projects.base": "TiPaint",
+  "bases/education.base": "FasBrain"
 }

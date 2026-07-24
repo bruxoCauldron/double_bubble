@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.tags.contains("education")
+views:
+  - type: table
+    name: Table

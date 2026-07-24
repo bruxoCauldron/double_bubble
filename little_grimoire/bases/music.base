@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.tags.containsAny("music")
+views:
+  - type: table
+    name: Table

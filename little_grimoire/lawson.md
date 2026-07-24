@@ -1,7 +1,0 @@
-- [ ] green tea
-	- [ ] x2
-- [ ] red bull
-- [ ] coffee
-	- [ ] x2
-- [ ] pouches?? 0w0
-- [ ] paper towels

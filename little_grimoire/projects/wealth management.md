@@ -1,0 +1,6 @@
+---
+tags:
+  - projects
+  - business
+  - money
+---

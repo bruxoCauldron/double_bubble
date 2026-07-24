@@ -26,6 +26,8 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "game": "text",
-    "created": "date"
+    "created": "date",
+    "created date": "datetime",
+    "created time": "datetime"
   }
 }

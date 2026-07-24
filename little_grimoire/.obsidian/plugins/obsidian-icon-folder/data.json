@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
+      "LiDollarSign",
+      "RiMoneyDollarBoxFill",
       "SiJavascript",
       "TiHtml",
-      "TiFileTypeCss",
-      "TiSortDescendingShapes",
-      "TiLanguageHiragana"
+      "TiFileTypeCss"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,10 +37,6 @@
   "cauldron": {
     "iconName": "FasHatWizard",
     "iconColor": "#4dffac"
-  },
-  "cauldron/digital forensics.md": {
-    "iconName": "RiFingerprintFill",
-    "iconColor": "#db48cf"
   },
   "games": {
     "iconName": "LiGhost",
@@ -96,7 +92,7 @@
   },
   "obsidian": {
     "iconName": "SiObsidian",
-    "iconColor": "#201a75"
+    "iconColor": "#443acf"
   },
   "books": "OcBook16",
   "japanese": {
@@ -109,5 +105,9 @@
   },
   "cauldron/languages/css.md": "TiFileTypeCss",
   "cauldron/languages/html.md": "TiHtml",
-  "cauldron/languages/javascript.md": "SiJavascript"
+  "cauldron/languages/javascript.md": "SiJavascript",
+  "wealth": {
+    "iconName": "LiDollarSign",
+    "iconColor": "#3ec154"
+  }
 }

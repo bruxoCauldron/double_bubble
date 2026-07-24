@@ -11,5 +11,4 @@ tags:
   - adhd
 ---
 *how to take notes on books*: in obsidian
-
-# 
+### consult [[obsidian to do]] and get a system down

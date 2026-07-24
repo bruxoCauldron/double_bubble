@@ -66,6 +66,13 @@
         "type": "FILES",
         "pattern": "cauldron/languages/learn to code.md",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "wealth/wealth generators.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

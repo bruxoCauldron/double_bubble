@@ -4,24 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "466af262f6011635",
+        "id": "1290369bb30ed875",
         "type": "tabs",
         "children": [
           {
-            "id": "f46f0e022c113584",
+            "id": "18ab50b0177424e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "notes/daily/2026-07-24.md",
-                "mode": "source",
-                "source": false
+                "file": "*.+ HOME *.+.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2026-07-24"
+              "icon": "lucide-table",
+              "title": "*.+ HOME *.+"
+            }
+          },
+          {
+            "id": "dbf35bbfc22246bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       {
         "id": "33971da099213a27",
         "type": "tabs",
-        "dimension": 24.66091245376079,
+        "dimension": 24.660912453760787,
         "children": [
           {
             "id": "0800b70dfea15fe7",
@@ -250,8 +260,20 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "4dcbf36627ef38b3",
+  "active": "dbf35bbfc22246bb",
   "lastOpenFiles": [
+    "books/notes on notes on books.md",
+    "books/notes on books.md",
+    "books/books shopping list.md",
+    "cauldron/digital forensics.md",
+    "cauldron/web design.md",
+    "wealth/wealth management.md",
+    "wealth/redbubble.md",
+    "wealth/wealth generators.md",
+    "wealth/handmade sigils and talismans.md",
+    "*.+ HOME *.+.base",
+    "wealth",
+    "notes/daily/2026-07-24.md",
     "cauldron/languages/learn to code.md",
     "cauldron/languages/css.md",
     "cauldron/languages/html.md",
@@ -259,7 +281,6 @@
     "cauldron/languages/python.md",
     "cauldron/languages/rust.md",
     "cauldron/linux/utilities/bash + zsh.md",
-    "notes/unsorted/web design.md",
     "obsidian/obsidian to do.md",
     "obsidian/little_grimoire.md",
     "obsidian/properties.md",
@@ -267,18 +288,8 @@
     "obsidian/bases.md",
     "obsidian/sync - github.md",
     "notes/unsorted/lawson.md",
-    "books/notes on notes on books.md",
     "notes/obsidian.md",
-    "books/notes on books.md",
-    "books/books shopping list.md",
-    "*.+ HOME *.+.base",
     "notes/unsorted/useful links.md",
-    "cauldron/linux/to do - general recommendations.md",
-    "notes/dwarf fortress.md",
-    "cauldron/linux/system/pacman + yay.md",
-    "cauldron/linux/system/config files to comb through.md",
-    "1) to do.md",
-    "notes/daily/2026-07-24.md",
     "notes/unsorted",
     "z; days",
     "japanese",
@@ -287,7 +298,6 @@
     "notes/daily",
     "Untitled.base",
     "music production/reaper",
-    "music production/bitwig",
     "games/factorio/factorio flow - the path to science.canvas"
   ]
 }

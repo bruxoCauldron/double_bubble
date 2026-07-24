@@ -1,0 +1,6 @@
+- [ ] make beds
+- [ ] clean fan
+- [ ] vacuum
+- [ ] dust some?
+- [ ] arrange the living room primo primo 100
+- [ ] 

@@ -11,16 +11,74 @@
             "id": "2245e62c2ecf1310",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "*.+ HOME *.+.base",
-                "viewName": "Table"
+                "file": "obsidian/obsidian to do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "*.+ HOME *.+"
+              "icon": "lucide-file",
+              "title": "obsidian to do"
+            }
+          },
+          {
+            "id": "cf252fcccde4a9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/lawson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lawson"
+            }
+          },
+          {
+            "id": "a285a4bc447bdb97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/daily/2026-07-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-24"
+            }
+          },
+          {
+            "id": "9de19d469e5eb76f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1) to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1) to do"
+            }
+          },
+          {
+            "id": "609f964db7389874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/config files to comb through.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "config files to comb through"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +162,7 @@
       {
         "id": "a6bb888ec4f0e108",
         "type": "tabs",
-        "dimension": 55.235602094240846,
+        "dimension": 50.54054054054053,
         "children": [
           {
             "id": "84ee3a2b62f8bcc2",
@@ -169,28 +227,18 @@
             }
           },
           {
-            "id": "048c297c7e3ef0fb",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
             "id": "75d6fca5179ed02d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/system/pacman + yay.md",
+                "file": "notes/config files to comb through.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pacman + yay"
+              "title": "Outline of config files to comb through"
             }
           },
           {
@@ -204,12 +252,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "33971da099213a27",
         "type": "tabs",
-        "dimension": 44.76439790575916,
+        "dimension": 49.45945945945946,
         "children": [
           {
             "id": "0800b70dfea15fe7",
@@ -225,7 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 310.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,21 +290,30 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "2245e62c2ecf1310",
+  "active": "609f964db7389874",
   "lastOpenFiles": [
+    "1) to do.md",
+    "notes/config files to comb through.md",
+    "obsidian/obsidian to do.md",
+    "notes/daily/2026-07-24.md",
+    "notes/spiff house.md",
+    "notes/lawson.md",
+    "notes/obsidian.md",
+    "notes/daily/2026-07-00.md",
+    "notes/messer chups.md",
+    "notes/unsorted",
+    "notes/daily/2026-07-15.md",
+    "notes/daily/2026-07-15.md",
+    "*.+ HOME *.+.base",
+    "z; days",
     "japanese/anki.md",
     "japanese/japanese.md",
     "japanese",
-    "*.+ HOME *.+.base",
-    "notes/daily/2026-07-15 1.md",
     "obsidian/GutHub sync - I THINK I DID IT!!!!.md",
-    "notes/messer chups.md",
-    "notes/daily/to do.md",
     "notes/useful links.md",
     "cauldron/linux/Linux to do.md",
     "cauldron/languages/learn to code.md",
     "cauldron/languages/javascript.md",
-    "obsidian/obsidian to do.md",
     "obsidian/properties.md",
     "obsidian/bases.md",
     "obsidian/tables.md",
@@ -266,20 +323,11 @@
     "cauldron/languages/css.md",
     "cauldron/languages/html.md",
     "cauldron/languages/python.md",
-    "cauldron/linux/security/Proton VPN.md",
-    "cauldron/linux/security/SSH keys.md",
     "obsidian",
-    "notes/daily/2026-07-15.md",
     "notes/daily",
-    "books/books shopping list.md",
-    "notes/I THINK I DID IT!!!!.md",
-    "1) to do.md",
-    "cauldron/linux/utilities/GitHub.md",
     "Untitled.base",
-    "z; days",
     "music production/reaper",
     "music production/bitwig",
-    "music production",
     "games/factorio/factorio flow - the path to science.canvas"
   ]
 }

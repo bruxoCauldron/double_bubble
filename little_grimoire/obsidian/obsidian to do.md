@@ -11,3 +11,5 @@
 	- [ ] 1
 	- [ ] 2
 - [ ] take notes on the above
+- [ ] check out [[time tracker]] (it might be shit)
+

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
+      "TiSortDescendingShapes",
       "TiLanguageHiragana",
       "OcBook16",
       "SiObsidian",
-      "SiArchlinux",
-      "RiCalendarTodoLine"
+      "SiArchlinux"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -90,7 +90,10 @@
     "iconName": "LiNotebookTabs",
     "iconColor": "#ff476c"
   },
-  "notes/daily": "LiListTodo",
+  "notes/daily": {
+    "iconName": "LiListTodo",
+    "iconColor": "#70ff81"
+  },
   "cauldron/linux": {
     "iconName": "SiArchlinux",
     "iconColor": "#3d5dff"
@@ -100,5 +103,12 @@
     "iconColor": "#201a75"
   },
   "books": "OcBook16",
-  "japanese": "TiLanguageHiragana"
+  "japanese": {
+    "iconName": "TiLanguageHiragana",
+    "iconColor": "#0091ff"
+  },
+  "notes/unsorted": {
+    "iconName": "TiSortDescendingShapes",
+    "iconColor": "#ff3838"
+  }
 }

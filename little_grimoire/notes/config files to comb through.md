@@ -1,0 +1,15 @@
+
+- [ ] `~/.zshrc`
+- [ ] `~/.bashrc`
+- [ ] `~/.config`
+	- [ ] `/hypr`
+		- [ ] `/hyprland.lua`
+		- [ ] `hyprpaper.conf`
+	- [ ] `/kitty`
+		- [ ] `/current-theme.conf`
+		- [ ] `/kitty.conf`
+	- [ ] `/yazi`
+		- [ ] `/package.toml`
+		- [ ] `/them.toml`
+		- [ ] `/yazi.toml`
+- [ ] `~/p10k.zsh` idk if you even need this one because you aslo have p10k configured through ohmyzsh. idk if I need ohmyzsh. what is happening

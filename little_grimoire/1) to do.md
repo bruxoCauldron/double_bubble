@@ -41,10 +41,10 @@ pacman upgrade update cleanup etc
 	- [x] TUI says `connecting...` but `pvpnctl status` says `conncted`
 
 ### misc
-- [ ] (without going down a rabbit hole) see what's current in the world of [[obsidian]]
+- [x] (without going down a rabbit hole) see what's current in the world of [[obsidian]]
 - [x] get a TUI activity monitor
 - [ ] [get rid](https://www.reddit.com/r/archlinux/comments/ki9hmm/how_to_properly_removeuninstall_packagesapps_with/) of anything you dont need
-	- [ ] generally just get down all the basics of using `pacman`
+	- [x] generally just get down all the basics of using `pacman`
 ### config files to comb through
 - [ ] `~/.zshrc`
 - [ ] `~/.bashrc`

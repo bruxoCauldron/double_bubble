@@ -34,82 +34,32 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "cauldron": {
-    "iconName": "FasHatWizard",
-    "iconColor": "#4dffac"
-  },
-  "cauldron/digital forensics.md": {
-    "iconName": "RiFingerprintFill",
-    "iconColor": "#db48cf"
-  },
-  "games": {
-    "iconName": "LiGhost",
-    "iconColor": "#74b300"
-  },
-  "games/dwarf fortress": {
-    "iconName": "TiBuildingFortress",
-    "iconColor": "#21d457"
-  },
-  "games/dwarf fortress/dtf notes.md": {
+  "dtf notes.md": {
     "iconName": "RiSwordFill",
     "iconColor": "#00ffcc"
   },
-  "games/factorio": {
-    "iconName": "FiCpu",
-    "iconColor": "#ff3d3d"
-  },
-  "games/factorio/factorio notes.md": {
+  "factorio flow - the path to science.canvas": "LiWorkflow",
+  "factorio notes.md": {
     "iconName": "FasGear",
     "iconColor": "#ff9500"
   },
-  "games/factorio/factorio flow - the path to science.canvas": "LiWorkflow",
-  "cauldron/languages": "LiCode",
-  "cauldron/languages/python.md": {
-    "iconName": "SiPython",
-    "iconColor": "#a9ff7a"
-  },
-  "cauldron/languages/rust.md": {
-    "iconName": "SiRust",
-    "iconColor": "#ff2424"
-  },
-  "cauldron/languages/SuperShell.md": {
+  "SuperShell.md": {
     "iconName": "FasTerminal",
     "iconColor": "#668af4"
   },
-  "music production": {
-    "iconName": "LiAudioWaveform",
-    "iconColor": "#00bd52"
+  "css.md": "TiFileTypeCss",
+  "html.md": "TiHtml",
+  "javascript.md": "SiJavascript",
+  "python.md": {
+    "iconName": "SiPython",
+    "iconColor": "#a9ff7a"
   },
-  "music production/bitwig": "SiBitwig",
-  "music production/reaper": "RaScythe",
-  "notes": "LiText",
-  "notes/daily": {
-    "iconName": "LiListTodo",
-    "iconColor": "#70ff81"
+  "rust.md": {
+    "iconName": "SiRust",
+    "iconColor": "#ff2424"
   },
-  "cauldron/linux": {
-    "iconName": "SiArchlinux",
-    "iconColor": "#3d5dff"
-  },
-  "obsidian": {
-    "iconName": "SiObsidian",
-    "iconColor": "#201a75"
-  },
-  "books": "OcBook16",
-  "japanese": {
-    "iconName": "TiLanguageHiragana",
-    "iconColor": "#0091ff"
-  },
-  "notes/unsorted": {
-    "iconName": "TiSortDescendingShapes",
-    "iconColor": "#ff3838"
-  },
-  "cauldron/languages/css.md": "TiFileTypeCss",
-  "cauldron/languages/html.md": "TiHtml",
-  "cauldron/languages/javascript.md": "SiJavascript",
-  "guitar": "FasGuitar",
-  "wealth": {
-    "iconName": "LiDollarSign",
-    "iconColor": "#2db957"
+  "digital forensics.md": {
+    "iconName": "RiFingerprintFill",
+    "iconColor": "#db48cf"
   }
 }

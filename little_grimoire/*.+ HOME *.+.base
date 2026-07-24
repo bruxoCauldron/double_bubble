@@ -3,8 +3,6 @@ views:
     name: Table
     order:
       - file.name
-      - file.tags
-      - file.path
     sort: []
     columnSize:
       file.name: 259

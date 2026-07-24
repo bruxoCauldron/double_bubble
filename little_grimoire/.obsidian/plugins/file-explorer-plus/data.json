@@ -24,48 +24,6 @@
         "type": "FILES",
         "pattern": "*.+ HOME *.+.base",
         "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "cauldron/linux/to do - general recommendations.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "games/factorio/factorio notes.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "games/dwarf fortress/dtf notes.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "obsidian/obsidian to do.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "obsidian/little_grimoire.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "cauldron/languages/learn to code.md",
-        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

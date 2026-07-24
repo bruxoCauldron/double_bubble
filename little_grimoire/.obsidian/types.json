@@ -6,7 +6,7 @@
     "TQ_explain": "checkbox",
     "TQ_extra_instructions": "text",
     "TQ_short_mode": "checkbox",
-    "TQ_show_backlink": "checkbox",
+    "TQ_show_backlink": "multitext",
     "TQ_show_cancelled_date": "checkbox",
     "TQ_show_created_date": "checkbox",
     "TQ_show_depends_on": "checkbox",

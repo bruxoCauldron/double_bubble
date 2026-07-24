@@ -1,8 +1,16 @@
-
-#html #code #javascript #webdesign #css #cauldron
+---
+tags:
+  - webdesign
+  - code
+  - cauldron
+  - html
+  - css
+  - javascript
+  - education
+---
 *css styles webpages*
 [[coding resources]]
-# [[web development]] languages
+# [[web design]] languages
 - [[html]] - structures webpages
 - [[css]] - styles webpages
 - [[javascript]] - adds interactivity to webpages

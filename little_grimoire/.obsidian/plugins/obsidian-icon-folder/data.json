@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ff0095",
     "recentlyUsedIcons": [
+      "SiJavascript",
+      "TiHtml",
+      "TiFileTypeCss",
       "TiSortDescendingShapes",
-      "TiLanguageHiragana",
-      "OcBook16",
-      "SiObsidian",
-      "SiArchlinux"
+      "TiLanguageHiragana"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,10 +33,6 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "1) to do.md": {
-    "iconName": "FasListUl",
-    "iconColor": "#ffc23d"
   },
   "cauldron": {
     "iconName": "FasHatWizard",
@@ -110,5 +106,8 @@
   "notes/unsorted": {
     "iconName": "TiSortDescendingShapes",
     "iconColor": "#ff3838"
-  }
+  },
+  "cauldron/languages/css.md": "TiFileTypeCss",
+  "cauldron/languages/html.md": "TiHtml",
+  "cauldron/languages/javascript.md": "SiJavascript"
 }

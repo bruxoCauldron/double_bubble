@@ -1,3 +1,8 @@
+---
+aliases:
+  - obsidian
+---
+
 - [ ] figure out a good solution for taking [[notes on books]]
 	- [ ] actionable: watch a video
 	- [ ] two videos even
@@ -12,4 +17,4 @@
 	- [ ] 2
 - [ ] take notes on the above
 - [ ] check out [[time tracker]] (it might be shit)
-
+- [ ] use the above to fill out [[notes on notes on books]]

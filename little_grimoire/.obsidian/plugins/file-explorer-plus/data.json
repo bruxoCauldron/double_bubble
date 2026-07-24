@@ -22,13 +22,6 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "1) to do.md",
-        "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
         "pattern": "*.+ HOME *.+.base",
         "patternType": "STRICT"
       },
@@ -36,7 +29,7 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "cauldron/linux/general recommendations.md",
+        "pattern": "cauldron/linux/to do - general recommendations.md",
         "patternType": "STRICT"
       },
       {
@@ -58,6 +51,20 @@
         "active": true,
         "type": "FILES",
         "pattern": "obsidian/obsidian to do.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "obsidian/little_grimoire.md",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "cauldron/languages/learn to code.md",
         "patternType": "STRICT"
       }
     ],
